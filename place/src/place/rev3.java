@@ -18,6 +18,7 @@ public class rev3 {
 		System.out.print("enter the number that to be reversed:");
 		Scanner sc =new Scanner(System.in);
 		int num=sc.nextInt();
+		//
 		System.out.print("the reverse of a given number is:");
 		reversenumber(num);
 		
